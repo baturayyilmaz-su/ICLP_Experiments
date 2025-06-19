@@ -1,0 +1,1 @@
+solutions: 0 nodes: 1  modelTime: 126  solveTime: 14  totalTime: 144  modelSize: 7358  readTime: 4 matchingSize: 0
